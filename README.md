@@ -1,2 +1,2 @@
-# NNmanual
-Neural Net tank trainer
+ # NNmanual
+Neural Net tank trainer with manual controls for ground truth.
